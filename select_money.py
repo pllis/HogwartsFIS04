@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-from python_stu01.task01.money import salary
+from task01.money import salary
 
 
 def select():
